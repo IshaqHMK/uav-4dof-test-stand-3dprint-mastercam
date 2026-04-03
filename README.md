@@ -20,4 +20,4 @@ UAV test stand for 4-DOF roll, pitch, yaw, and altitude experiments. This reposi
 
 **Academic Use, Data, Collaboration**
 - This repository is for academic use.
-- For datasets, collaborations, and updated versions, contact: `ishaq.hmk@gmail.com`
+- For collaborations and updated versions, contact: `ishaq.hmk@gmail.com`
