@@ -1,7 +1,15 @@
-# UAV 4-DOF Test Stand - 3D Print + Mastercam
+# UAV 4DOF Test Stand | 3D Print and Mastercam
 
-UAV test stand for 4-DOF roll, pitch, yaw, and altitude experiments. This repository contains CAD/CAM assets and figures for the printed stand.
+UAV test stand for 4DOF roll, pitch, yaw, and altitude experiments. This repository contains the CAD, CAM, and figure assets for the printed stand used in the experimental platform.
 
+This hardware supports the work documented in the related repository:
+
+[navio2-quadcopter-autopilot-stack](https://github.com/IshaqHMK/navio2-quadcopter-autopilot-stack)
+
+## Contents
+
+- `figures/` renderings and build photos
+- `mastercam/` Mastercam project files (`.emcam`, `.gx`)
 **Contents**
 - `figures/` renders and build photos
 - `mastercam/` Mastercam project files (`.emcam`, `.gx`)
