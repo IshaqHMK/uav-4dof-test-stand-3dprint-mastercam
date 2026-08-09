@@ -26,6 +26,5 @@ This hardware supports the work documented in the related repository:
 **CAD/CAM Files**
 - Mastercam source files are in `mastercam/` (e.g., `drone1.emcam`, `drone1.gx`, `dronearm.gx`).
 
-**Academic Use, Data, Collaboration**
-- This repository is for academic use.
-- For collaborations and updated versions, contact: `ishaq.hmk@gmail.com`
+ 
+ 
